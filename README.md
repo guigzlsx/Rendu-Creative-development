@@ -87,7 +87,7 @@ cd <nom-du-dossier>
 ---
 
 ## Auteur
-Guillaume LSX — 2024
+Guillaume Le Saux et Lionel Pinau 
 
 ---
 
