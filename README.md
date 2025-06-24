@@ -29,7 +29,7 @@ Le synthwave est un courant artistique qui s'inspire de la pop culture des anné
 Ce style évoque la nostalgie, la rêverie, l'évasion et la modernité, des thèmes chers à PNL et particulièrement présents dans "91's" (références à la banlieue, à l'enfance, à l'ascension, à la nuit, à l'introspection).
 
 ### Lien avec "91's" de PNL
-- **Ambiance nocturne et urbaine** : la route, la voiture rétro, les buildings, la brume évoquent la traversée de la ville la nuit, un thème récurrent chez PNL.
+- **Ambiance nocturne et urbaine** : la route, la voiture rétro évoquent la traversée de la ville la nuit, un thème récurrent chez PNL.
 - **Soleil couchant** : symbole de passage, de rêve, d'espoir, de mélancolie.
 - **Palette néon** : rappelle les lumières de la ville, les enseignes, l'énergie nocturne.
 - **Effets audio-réactifs** : le reflet du soleil vibre avec la musique, créant un lien direct entre le son et l'image.
@@ -39,7 +39,7 @@ Ce style évoque la nostalgie, la rêverie, l'évasion et la modernité, des th�
 - **Bouton Play** centré, animé, pour lancer la musique et l'animation.
 - **Reflet du soleil audio-réactif** : la forme et la couleur du reflet changent selon la musique.
 - **Ajout d'étoiles scintillantes** au clic dans le ciel.
-- **Effets visuels dynamiques** : scanlines, CRT, brume, glitch, RGB split, vignettage, etc.
+- **Effets visuels dynamiques** : scanlines, CRT,glitch, RGB split, vignettage, etc.
 - **Canvas carré** pour un vrai format "pochette d'album".
 
 ---
