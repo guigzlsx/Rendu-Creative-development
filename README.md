@@ -13,7 +13,6 @@ Ajoutez ici vos images d'inspiration pour le projet (couleurs, ambiances, réfé
 ![Moodboard 1](assets/MoodBoard_PNL_Synthwave.png)
 
 
-*Remplacez les liens ci-dessus par vos propres images ou captures d'écran.*
 
 ---
 
