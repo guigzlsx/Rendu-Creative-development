@@ -6,6 +6,17 @@ Ce projet propose une **pochette d'album interactive** inspirée du morceau "91'
 
 ---
 
+## Moodboard
+
+Ajoutez ici vos images d'inspiration pour le projet (couleurs, ambiances, références visuelles, etc.) :
+
+![Moodboard 1](assets/MoodBoard_PNL_Synthwave.png)
+
+
+*Remplacez les liens ci-dessus par vos propres images ou captures d'écran.*
+
+---
+
 ## Démarche artistique
 
 ### Pourquoi le style synthwave ?
