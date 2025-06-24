@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: #1a0033;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#canvas {
+  display: block;
+  background: #000;
+  box-shadow: 0 0 40px #000a;
+  /* carré, taille fixée par JS */
+}
+
+#play-btn {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 10;
+  font-size: 2.5rem;
+  padding: 0.7em 2em;
+  border-radius: 2em;
+  background: linear-gradient(90deg, #8a2be2, #ff00cc);
+  color: #fff;
+  border: none;
+  box-shadow: 0 2px 20px #0008;
+  cursor: pointer;
+  outline: none;
+  transition: box-shadow 0.2s, transform 0.2s;
+}
+
+@keyframes pulse {
+  0% {
+    box-shadow: 0 0 0 0 #8a2be288;
+    transform: translate(-50%, -50%) scale(1);
+  }
+  70% {
+    box-shadow: 0 0 0 2em transparent;
+    transform: translate(-50%, -50%) scale(1.08);
+  }
+  100% {
+    box-shadow: 0 0 0 0 transparent;
+    transform: translate(-50%, -50%) scale(1);
+  }
+}
+
+#play-btn:hover, #play-btn:focus {
+  transform: translate(-50%, -50%) scale(1.05);
+  box-shadow: 0 4px 25px #000b;
+}
+
+#play-btn:active {
+  animation: pulse 1s;
+}
